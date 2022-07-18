@@ -3,7 +3,7 @@ node_modules
 coverage
 coverage.json
 typechain
-README2.md
+PrivatReadme.md
 
 #Hardhat files
 cache

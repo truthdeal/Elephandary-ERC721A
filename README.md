@@ -1,1 +1,1 @@
-Project will explain here
+ERC721-A Kontratı Elephandary'nin

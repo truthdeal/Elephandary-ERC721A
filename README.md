@@ -1,1 +1,1 @@
-ERC721-A Kontratı Elephandary'nin
+ERC721-A Contract of Elephandary
